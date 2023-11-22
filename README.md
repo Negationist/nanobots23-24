@@ -1,3 +1,9 @@
+## Example code
+FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples
+
+## Team code
+TeamCode/src/main/java/org/firstinspires/ftc/teamcode
+
 ## NOTICE
 
 This repository contains the public FTC SDK for the CENTERSTAGE (2023-2024) competition season.
