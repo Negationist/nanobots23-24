@@ -6,12 +6,3 @@ FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/
 
 ## Team code
 TeamCode/src/main/java/org/firstinspires/ftc/teamcode
-<<<<<<< HEAD
-=======
-
-<<<<<<< HEAD
-## Nanobots
->>>>>>> d6cf30c (updated readme)
-=======
-## Nanobots programmers
->>>>>>> 5bf9912 (update)
