@@ -11,4 +11,3 @@ Jacob
 
 Class ur mom extends me
 
-## Nanobots programmers
