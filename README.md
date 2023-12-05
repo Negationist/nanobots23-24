@@ -9,9 +9,8 @@ TeamCode/src/main/java/org/firstinspires/ftc/teamcode
 <<<<<<< HEAD
 ## Names
 Jacob
-
-Class ur mom extends me
 =======
 
 ## Nanobots programmers
 >>>>>>> d94eb66a8b1abf51c7aadd41192e9b46833689c9
+ 
